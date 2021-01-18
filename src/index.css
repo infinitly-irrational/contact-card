@@ -1,0 +1,16 @@
+.card {
+  background-color: rgba(201, 216, 235, 0.692);
+  text-align: justify center;
+  color: black;
+  padding: 1px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.Container {
+  color: black;
+  padding-top: 10px;
+  padding-right: 450px;
+  padding-left: 450px;
+  height: 45em;
+  background-image: url(card.jpg);
+}
